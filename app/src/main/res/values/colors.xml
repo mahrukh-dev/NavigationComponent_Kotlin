@@ -2,4 +2,6 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="fragment_one_background">#3AC6B9</color>
+    <color name="fragment_two_background">#B595ED</color>
 </resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="fragment_one_layout">
+        <item name="android:background">@color/fragment_one_background</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+
+    <style name="fragment_one_text">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">300dp</item>
+        <item name="android:text">1</item>
+        <item name="android:textSize">50dp</item>
+    </style>
+
+    <style name="fragment_two_layout">
+        <item name="android:background">@color/fragment_two_background</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+
+    <style name="fragment_two_text">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">300dp</item>
+        <item name="android:text">2</item>
+        <item name="android:textSize">50dp</item>
+    </style>
+</resources>
