@@ -37,6 +37,7 @@ class MainActivity : AppCompatActivity() {
 
                 if (destination.id == R.id.firstFragment) {
                     supportActionBar?.setBackgroundDrawable(ColorDrawable(getColor(R.color.fragment_one_background)))
+//                    destination.label = "First Screen"
                 } else if (destination.id == R.id.secondFragment) {
                     supportActionBar?.setBackgroundDrawable(ColorDrawable(getColor(R.color.fragment_two_background)))
                 }

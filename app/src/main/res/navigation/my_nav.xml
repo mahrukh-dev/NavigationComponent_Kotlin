@@ -19,7 +19,7 @@
     <fragment
         android:id="@+id/secondFragment"
         android:name="com.example.navigationcomponent.SecondFragment"
-        android:label="fragment_second"
+        android:label="Second Screen"
         tools:layout="@layout/fragment_second" >
         <action
             android:id="@+id/action_secondFragment_to_firstFragment"
